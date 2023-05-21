@@ -1,3 +1,3 @@
 # AzureML
 
-Model deployment on Azure ML
+FOQA model deployment on Azure ML
