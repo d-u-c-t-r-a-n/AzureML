@@ -11,6 +11,7 @@ FOQA model deployment on Azure ML
 5. Create compute cluster
 6. Submit job
 7. Register model
+8. Deploy the model
 
 ### Learned Topics
 -
